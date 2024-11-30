@@ -1,16 +1,19 @@
-## Hi there 👋
+👋 ¡Hola, soy Rodrigo Torres Soto!  
+📈 Ingeniero Industrial | Data Scientist | Data Analyst | Business Analyst  
+💡 Apasionado por transformar datos en soluciones estratégicas e impulsar la innovación en entornos empresariales.  
+📚 Siempre estudiando y explorando nuevos algoritmos y herramientas para perfeccionar mis habilidades en Machine Learning y análisis de datos.  
+🤝 Me encanta colaborar en proyectos que mezclen creatividad, tecnología y analítica para resolver problemas reales.
 
-<!--
-**Odrixts/Odrixts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+✨ **¿Qué me motiva?**  
+- 🚀 Aprender algo nuevo cada día y aplicarlo en proyectos innovadores.  
+- 📊 Encontrar insights en los datos para tomar decisiones más inteligentes.  
+- 🤖 Explorar y dominar algoritmos que mejoren la predicción y eficiencia de los sistemas.  
+- 💡 Compartir conocimiento y construir soluciones que aporten valor.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+🔗 **Contáctame:**  
+- [LinkedIn: Rodrigo Torres Soto](https://linkedin.com/in/rodrigo-josue-torres-soto-b336c4217)  
+- ✉️ **E-mail:** rodrigo.torres.soto@example.com  
