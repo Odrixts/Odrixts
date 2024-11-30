@@ -15,5 +15,5 @@
 ---
 
 🔗 **Contáctame:**  
-- [LinkedIn: Rodrigo Torres Soto](https://linkedin.com/in/rodrigo-josue-torres-soto-b336c4217)  
-- ✉️ **E-mail:** rodrigo.torres.soto@example.com  
+- [LinkedIn: Rodrigo Torres Soto](www.linkedin.com/in/rodrigo-josue-torres-soto-b38624217)  
+- ✉️ **E-mail:** a20181621@pucp.edu.pe 
